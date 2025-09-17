@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Alejandro Arraga Medina</h1>
 <h3 align="center">Fullstack Developer from Chile</h3>
 
-- 🔭 I’m currently working on [GeekSur-ltm43](https://github.com/LA9905/GeekSur-ltm43)
+- 🔭 I’m currently working on [SignoApp](https://github.com/LA9905/signoapp)
 
 - 🌱 I’m currently learning **cybersecurity, coding whit AI**
 
